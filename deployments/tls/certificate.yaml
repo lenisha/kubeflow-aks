@@ -6,6 +6,7 @@ metadata:
 spec:
   # Secret names are always required.
   secretName: istio-ingressgateway-certs
+ 
   # At least one of a DNS Name, URI, or IP address is required.
   #dnsNames:
   #  - uniquednsname.eastus.cloudapp.azure.com
